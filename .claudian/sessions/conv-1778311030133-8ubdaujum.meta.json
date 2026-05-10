@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778311030133-8ubdaujum",
+  "providerId": "claude",
+  "title": "确认 Wiki 维护职责",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778311030180,
+  "updatedAt": 1778394890141,
+  "lastResponseAt": 1778341968436,
+  "sessionId": "3b732654-ca6a-4f80-ba53-ee8b189cabc1",
+  "providerState": {
+    "providerSessionId": "3b732654-ca6a-4f80-ba53-ee8b189cabc1"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 75,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 122144,
+    "contextWindow": 200000,
+    "contextTokens": 122219,
+    "percentage": 61,
+    "contextWindowIsAuthoritative": true
+  }
+}
